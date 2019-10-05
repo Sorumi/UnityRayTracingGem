@@ -130,7 +130,7 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.379
+    value: 0.267
   smoothness:
     overrideState: 1
     value: 0.259
@@ -165,7 +165,7 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 4.01
+    value: 4.25
   aperture:
     overrideState: 0
     value: 5.1
@@ -197,7 +197,7 @@ MonoBehaviour:
     defaultState: 1
   intensity:
     overrideState: 1
-    value: 0.318
+    value: 0.275
   fastMode:
     overrideState: 0
     value: 0

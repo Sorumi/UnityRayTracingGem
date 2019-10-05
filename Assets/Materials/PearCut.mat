@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AbsorbIntensity: 3.29
+    - _AbsorbIntensity: 2.62
     - _BumpScale: 1
     - _ColorAdd: 0.06
     - _ColorIntensity: 2.87

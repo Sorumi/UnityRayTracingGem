@@ -64,7 +64,7 @@ Material:
     - _BumpScale: 1
     - _ColorAdd: 0.06
     - _ColorIntensity: 2.87
-    - _ColorMultiply: 1
+    - _ColorMultiply: 1.49
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -85,5 +85,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 0.754717, b: 0.83578515, a: 1}
+    - _Color: {r: 1, g: 0.81960785, b: 0.8710278, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

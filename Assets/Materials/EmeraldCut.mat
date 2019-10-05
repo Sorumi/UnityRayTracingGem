@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _AbsorbIntensity: 4.11
+    - _AbsorbIntensity: 3.13
     - _BumpScale: 1
     - _ColorAdd: 0.041
     - _ColorIntensity: 2.87
@@ -85,5 +85,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.23255605, g: 0.6320754, b: 0.3459998, a: 1}
+    - _Color: {r: 0.3837665, g: 0.8301887, b: 0.51069045, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
