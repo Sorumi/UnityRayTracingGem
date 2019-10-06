@@ -1,5 +1,5 @@
 # UnityRayTracingGem
-💎 RayTracing gem shader for Unity
+💎 Ray tracing gem shader for Unity
 
 http://sorumi.xyz/posts/unity-ray-tracing-gem-shader/
 
